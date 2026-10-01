@@ -1,0 +1,14 @@
+C:\Users\ishwa\Desktop\quick-serve-main\backend\src\main\java\com\quickserve\controller\ReviewController.java
+C:\Users\ishwa\Desktop\quick-serve-main\backend\src\main\java\com\quickserve\controller\ServiceController.java
+C:\Users\ishwa\Desktop\quick-serve-main\backend\src\main\java\com\quickserve\dto\ReviewDTO.java
+C:\Users\ishwa\Desktop\quick-serve-main\backend\src\main\java\com\quickserve\dto\ServiceDto.java
+C:\Users\ishwa\Desktop\quick-serve-main\backend\src\main\java\com\quickserve\exception\BadRequestException.java
+C:\Users\ishwa\Desktop\quick-serve-main\backend\src\main\java\com\quickserve\exception\ResourceNotFoundException.java
+C:\Users\ishwa\Desktop\quick-serve-main\backend\src\main\java\com\quickserve\model\Review.java
+C:\Users\ishwa\Desktop\quick-serve-main\backend\src\main\java\com\quickserve\model\ServiceEntity.java
+C:\Users\ishwa\Desktop\quick-serve-main\backend\src\main\java\com\quickserve\QuickServeApplication.java
+C:\Users\ishwa\Desktop\quick-serve-main\backend\src\main\java\com\quickserve\repository\ReviewRepository.java
+C:\Users\ishwa\Desktop\quick-serve-main\backend\src\main\java\com\quickserve\repository\ServiceRepository.java
+C:\Users\ishwa\Desktop\quick-serve-main\backend\src\main\java\com\quickserve\service\ReviewService.java
+C:\Users\ishwa\Desktop\quick-serve-main\backend\src\main\java\com\quickserve\service\ServiceService.java
+C:\Users\ishwa\Desktop\quick-serve-main\backend\src\main\java\com\quickserve\service\ServiceServiceImpl.java
